@@ -1,0 +1,206 @@
+@media only screen and (max-width: 1072px) {
+    .content_image {
+        display: none;
+
+    }
+
+    .banner {
+        flex-direction: column;
+
+    }
+    .head_btn .dp-n{
+        display: none;
+    }
+    .nav-actions {
+        display: none;
+    }
+
+
+    .compaines {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    
+    .cart_section {
+        flex-direction: column;
+
+    }
+
+    .cart {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        max-width: 100%;
+    }
+
+    .cart_details {
+        max-width: 300px;
+
+    }
+
+    .offer_contant {
+        gap: 63px;
+        align-items: center;
+        flex-direction: column;
+
+    }
+
+    .offer {
+        max-width: 600px;
+    }
+
+    .review {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        justify-items: center;
+        row-gap: 20px;
+    }
+
+    .main_contant {
+        display: block;
+    }
+
+    .contant {
+        align-items: center;
+        padding: 0;
+    }
+
+    .contant_text {
+        align-items: center;
+    }
+
+    .contant_text h1 {
+        text-align: center;
+
+    }
+
+    .title_bar {
+        width: 760px;
+    }
+}
+
+@media only screen and (max-width: 765px) {
+    .site_nav {
+        display: none;
+    }
+
+    .hamburger-box {
+        display: block;
+    }
+
+    form {
+        max-width: 100%;
+        width: 600px;
+    }
+
+    .footer.links {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        row-gap: 20px;
+
+    }
+
+    .footer_grid.media {
+        max-width: 100%;
+    }
+
+    .review {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .title p {
+        width: 100%;
+    }
+
+    .cart {
+        flex-direction: column;
+    }
+
+    .brand.contant_text p {
+        width: 100%;
+    }
+
+    .compaines {
+        gap: 20px;
+    }
+
+    .offer_label {
+        width: 75px;
+        height: 75px;
+    }
+
+    .dp-n {
+        display: none;
+    }
+
+    .title_bar {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    .offer_label {
+        right: 0;
+        top: 0;
+    }
+
+    .footer.links {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .review_info {
+        width: 250px;
+    }
+
+    .btn.transprent_btn {
+        display: none;
+    }
+
+    .site_header h3 {
+        font-size: 14px;
+    }
+
+    .contant_text h1 {
+        font-size: 40px;
+    }
+
+    .contant_text p {
+        font-size: 15px;
+    }
+
+    .btn {
+        padding: 15px 20px;
+    }
+
+    .end h6 {
+        font-size: 10px;
+    }
+
+    .end {
+        flex-direction: column;
+    }
+
+    .s_media {
+        gap: 10px;
+        padding: 0px;
+    }
+
+    .title h2 {
+        font-size: 15px;
+    }
+
+    .title h6 {
+        font-size: 10px;
+    }
+
+    .title p {
+        font-size: 10px;
+    }
+
+    .brand.contant_text h2 {
+        font-size: 20px;
+    }
+}

@@ -1,0 +1,59 @@
+What are the various formatting tags in HTML?
+
+<b> - Bold text
+<strong> - Important text
+<i> - Italic text
+<em> - Emphasized text
+<mark> - Marked text
+<small> - Smaller text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
+
+differentiate b/w ordered and unordered list...
+
+unordered lists (<ul>) - the list items are marked with bullets
+ordered lists (<ol>) - the list items are marked with numbers or letters
+
+How do you create links to different sections within the same HTML web page?
+
+The HTML <a> tag defines a hyperlink
+
+What is semantic HTML?
+
+<form>, <table>, and <article> 
+
+What is the alt attribute in HTML?
+
+The alt attribute specifies an alternate text for an area, if the image cannot be displayed.
+
+How do you add color to the text in HTML?
+
+The HTML style attribute is used to add styles to an element, such as color, font, size, and more.
+
+How do you add CSS styling in HTML?
+
+<link rel="stylesheet" href="styles.css">
+
+meta tag
+
+<meta> tags always go inside the <head> element, and are typically used to specify character set, page description, keywords, author of the document, and viewport settings.
+
+What is the difference between position absolute and relative?
+
+Relative - the element is positioned relative to its normal position. 
+Absolute - the element is positioned absolutely to its first positioned parent. 
+
+What is the role of the title attribute in HTML?
+
+The title attribute specifies extra information about an element.
+
+What are the different types of form input fields in HTML?
+
+<input type="button">
+<input type="checkbox">
+<input type="color">
+
+
+											
